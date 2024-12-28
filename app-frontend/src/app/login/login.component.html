@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Login Page</title>
+</head>
+
+<body>
+    <div class="container">
+        <div class="login-box">
+            <h1><b>Login</b></h1>
+            <form (ngSubmit)="OnSubmit()" [formGroup]="loginForm">
+                <input type="text" id="username" formControlName="username" placeholder="Username">
+                <input type="password" id="password" formControlName="password" placeholder="Password">
+                <button type="submit">Login</button>
+            </form>
+            <div class="register" (click)="onRegister()">New User? Sign Up!</div>
+        </div>
+    </div>
+</body>
+
+</html>

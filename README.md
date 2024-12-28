@@ -28,7 +28,7 @@ To run the Chat Meet Application locally, follow these steps:
 ### Backend Setup:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kalash33/Chat_Meet_App.git
+   git clone https://github.com/MeRishi07/RealTime-Chat.git
    cd Chat_Meet_App
    ```
 2. Navigate to the app-backend folder:
@@ -79,5 +79,4 @@ The Chat Meet Application is built using the following technologies:
 
 The project aims to provide a seamless and interactive communication platform for users, offering modern features and ensuring data security.
 
-Feel free to explore the source code and contribute to the project on [GitHub](https://github.com/kalash33/Chat_Meet_App).
 

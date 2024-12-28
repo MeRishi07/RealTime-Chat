@@ -3,6 +3,8 @@
 ## Overview
 Chat Meet Application is a real-time chat application that enables users to communicate through text messages, make video calls, and share screens. The main goal of this project is to provide a seamless and interactive communication platform for users to connect with each other remotely. The application is designed to be easy to use and efficient, ensuring a smooth and enjoyable experience for all users.
 
+![ChatMeet](https://github.com/MeRishi07/RealTime-Chat/blob/2da71f6a81ca85af1984d2350d7507d65510ad75/app-frontend/8e1d99171171704c393e42fd0f1b6cac.jpg)
+
 ## Features
 - **Real-time Text Messaging:** Users can exchange text messages in real-time, allowing for instant communication and efficient collaboration.
 
